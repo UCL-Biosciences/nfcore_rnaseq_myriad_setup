@@ -1,7 +1,7 @@
 # nfcore_rnaseq_myriad_setup
 Examples of a setup for nfcore/rnaseq on myriad. This has worked for me but it is not meant to be comprehensive or the best example. Feedback and contributions of course welcome!
 
-Covers three steps:
+Covers key steps:
 1. Set up nextflow on myriad
 2. copy files from RDSS and check md5 hashes match
 3. Create samplesheet.csv required for pipeline
