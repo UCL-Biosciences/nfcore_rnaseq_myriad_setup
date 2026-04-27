@@ -1,4 +1,4 @@
-# nfcore_rnaseq_myriad_setup
+# nf-core/rnaseq myriad setup
 Examples of a setup for nfcore/rnaseq on myriad. This has worked for me but it is not meant to be comprehensive or the best example. Feedback and contributions of course welcome!
 
 Covers key steps:
